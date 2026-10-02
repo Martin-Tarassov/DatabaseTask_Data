@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DatabaseTask.Core/DatabaseTask.Core.csproj" />
+  <Project Path="DatabaseTask.Data/DatabaseTask.Data.csproj" />
+  <Project Path="DatabaseTask/DatabaseTask.csproj" />
+</Solution>
