@@ -1,4 +1,6 @@
-# DatabaseTask_Hotel
+# DatabaseTask_Hospital
 
+<img width="808" height="1145" alt="{14020E5F-398F-4A13-8D2A-1FAC1D5AB467}" src="https://github.com/user-attachments/assets/3031ec84-394f-4f74-b515-b26323d8e3e0" />
 
-<img width="1134" height="1155" alt="{BA652EFC-4FFF-47F8-B43F-ACAB2E47CC86}" src="https://github.com/user-attachments/assets/8fbd3692-6954-4187-ae83-3bec75067967" />
+# ERD
+<img width="1306" height="1100" alt="{EE7CD01A-43C2-468C-8626-9F5AFA491ECC}" src="https://github.com/user-attachments/assets/48422893-bfc6-44ed-b5a3-d4352e11ce6f" />
