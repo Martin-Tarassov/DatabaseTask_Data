@@ -8,16 +8,16 @@ namespace DatabaseTask.Data
         public DatabaseTaskDbContext(DbContextOptions<DatabaseTaskDbContext> options)
             : base(options) { }
 
-        public DbSet<Hotel> Hotels { get; set; }
-        public DbSet<Room> Rooms { get; set; }
-        public DbSet<Bookable> Bookables { get; set; }
-        public DbSet<Booking> Bookings { get; set; }
-        public DbSet<Guests> Guests { get; set; }
-        public DbSet<Employee> Employees { get; set; }
-        public DbSet<Services> Services { get; set; }
-        public DbSet<ServiceOrder> ServiceOrders { get; set; }
-        public DbSet<Payment> Payments { get; set; }
-        public DbSet<Payroll> Payrolls { get; set; }
+        public DbSet<Patient> Patients { get; set; }
+        public DbSet<Department> Departments { get; set; }
+        public DbSet<Doctor> Doctors { get; set; }
+        public DbSet<Visit> Visits { get; set; }
+        public DbSet<Examination> Examinations { get; set; }
+        public DbSet<VisitExamination> VisitExaminations { get; set; }
+        public DbSet<Medication> Medications { get; set; }
+        public DbSet<Prescription> Prescriptions { get; set; }
+        public DbSet<Ward> Wards { get; set; }
+        public DbSet<Hospitalization> Hospitalizations { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
